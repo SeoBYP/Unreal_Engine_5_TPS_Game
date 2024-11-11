@@ -6,6 +6,8 @@
 <!-- ### GitHub Link
 [Unreal Engine 5 TPS Game](https://github.com/SeoBYP/Unreal_Engine_5_TPS_Game) -->
 
+[TPS 게임 플레이 영상](https://tv.kakao.com/v/443649243)
+
 ![Unreal TPS Game](UnrealTPS게임.png)
 
 ---
